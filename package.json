@@ -1,0 +1,23 @@
+{
+  "name": "jest_tdd_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eljoey/Jest-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eljoey/Jest-Practice/issues"
+  },
+  "homepage": "https://github.com/eljoey/Jest-Practice#readme"
+}
